@@ -9,6 +9,7 @@ const App: Component = () => {
       <header class={styles.header}>
         <img src={logo} class={styles.logo} alt="logo" />
         <h3>Hello from solid!</h3>
+        <h3>Testing for the netlify build process!</h3>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
